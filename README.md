@@ -1,1 +1,1 @@
-<img src='./tela.png'>
+<img src='tela.png'>
